@@ -22,6 +22,8 @@ To write and run C++ code, you can use **Dev-C++** or **Visual Studio Code (VS C
 
 ### Why Dev-C++?
 
+Download it [here](<https://filehippo.com/download_bloodshed-dev-c/>).
+
 - Simple and lightweight IDE.
 - Perfect for beginners with built-in features for compiling and running C++ code.
 - Easy to install and use without additional configuration.
