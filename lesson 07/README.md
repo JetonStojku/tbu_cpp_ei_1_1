@@ -73,9 +73,9 @@ int main() {
 }
 ```  
 
-## Key Points to Remember
+## Key Points to Remember  
 
-Indexing: Array indices start at 0 and go up to size - 1.
-Fixed Size: Once declared, the size of an array cannot be changed.
-Same Type: All elements in an array must be of the same type.
-Out of Bounds: Accessing an index outside the array size leads to undefined behavior.
+1. **Indexing**: Array indices start at `0` and go up to `size - 1`.  
+2. **Fixed Size**: Once declared, the size of an array cannot be changed.  
+3. **Same Type**: All elements in an array must be of the same type.  
+4. **Out of Bounds**: Accessing an index outside the array size leads to undefined behavior.  
